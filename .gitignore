@@ -353,3 +353,4 @@ MigrationBackup/
 *.txt
 *.json
 Program.cs
+Template.cs
